@@ -1,0 +1,11 @@
+# Directories
+obj/
+vendor/
+output/
+
+# Visual Studio files
+.vs/
+*.user
+*.userosscache
+*.suo
+*.sln.docstates
